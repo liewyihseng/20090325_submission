@@ -34,15 +34,15 @@ https://docs.anaconda.com/anaconda/install/windows/
 
 
 # Running of Source Code
->After having all the prerequisites done, you are now ready to run the cloned source code.
->Go to Anaconda Navigator and head to the environment tab on the most left part of the window.
->Search for the environment you have imported and click onto the start icon beside the enviroment to boot up the enviroment.
->Simply head to Home tab and search for Jupyter Notebook.
->Select 'Launch' to have Jupyter Notebook booted up.
->Within Jupyter Notebook, head to directory containing the repository.
->Click on the files you would like to access.
->To run the Machine Learning technique training, click on the run all symbol in the navigation bar.
->The training will automatically start where a series of output will be presented. 
+* After having all the prerequisites done, you are now ready to run the cloned source code.
+* Go to Anaconda Navigator and head to the environment tab on the most left part of the window.
+* Search for the environment you have imported and click onto the start icon beside the enviroment to boot up the enviroment.
+* Simply head to Home tab and search for Jupyter Notebook.
+* Select 'Launch' to have Jupyter Notebook booted up.
+* Within Jupyter Notebook, head to directory containing the repository.
+* Click on the files you would like to access.
+* To run the Machine Learning technique training, click on the run all symbol in the navigation bar.
+* The training will automatically start where a series of output will be presented. 
 
 
 # Attribute
