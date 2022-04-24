@@ -13,7 +13,7 @@
 * Have Anaconda Navigator opened in your machine.
 * Head to the Environments tab on the most left part of the window.
 * Search for 'Import' that lies at the bottom left part of the window.
-* * At the 'Specification File', simply insert the path that directs to environment.yml file within the cloned repository.
+* At the 'Specification File', simply insert the path that directs to environment.yml file within the cloned repository.
 * A pop up window will appear where you are allowed to give the environment you are going to import a name
 * After that, simply select 'Import'.
 * The process of importing the environemt might take awhile, please be patient.
