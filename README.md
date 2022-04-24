@@ -1,7 +1,7 @@
 # Prediction of Metal Coating Properties for Greener Air Travel
 
 
-### User Manual
+## User Manual
 #### Cloning of this Repository on Github
 * Using the Command Line Tool in your desired IDE, run:
 
