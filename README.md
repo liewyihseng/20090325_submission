@@ -16,7 +16,7 @@
 * At the 'Specification File', simply insert the path that directs to environment.yml file within the cloned repository.
 * A pop up window will appear where you are allowed to give the environment you are going to import a name.
 * After that, simply select 'Import'.
-* The process of importing the environemt might take awhile, please be patient.
+* The process of importing the environment might take awhile, please be patient.
 * If you have followed the steps, the designated environment with the environment name you have specified has been imported.
 
 
@@ -36,7 +36,7 @@ https://docs.anaconda.com/anaconda/install/windows/
 # Running of Source Code
 * After having all the prerequisites done, you are now ready to run the cloned source code.
 * Go to Anaconda Navigator and head to the environment tab on the most left part of the window.
-* Search for the environment you have imported and click onto the start icon beside the enviroment to boot up the enviroment.
+* Search for the environment you have imported and click onto the start icon beside the enviroment to boot up the environment.
 * Simply head to Home tab and search for Jupyter Notebook.
 * Select 'Launch' to have Jupyter Notebook booted up.
 * Within Jupyter Notebook, head to directory containing the repository.
