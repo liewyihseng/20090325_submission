@@ -44,7 +44,19 @@ https://docs.anaconda.com/anaconda/install/windows/
 * To run the Machine Learning technique training, click on the run all symbol in the navigation bar.
 * The training will automatically start where a series of output will be presented. 
 
+# Python Version
+The project within this repository utilises Python 3.7.11
 
 # Attribute
 > All files included inside the lib folder are written in-house.
 ### List of packages (Standard Libraries) that has been included into the project are as follow:
+  * notebook: 6.4.8
+  * keras: 2.4.3
+  * keras_tuner: 1.1.0
+  * matplotlib: 3.4.3
+  * numpy: 1.20.3
+  * pandas: 1.3.4
+  * scikit-learn: 0.24.2
+  * scipy: 1.7.3
+  * tensorboard: 2.6.0
+  * tensorflow: 2.3.0
