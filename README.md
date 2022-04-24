@@ -44,16 +44,6 @@ https://docs.anaconda.com/anaconda/install/windows/
 >To run the Machine Learning technique training, click on the run all symbol in the navigation bar.
 >The training will automatically start where a series of output will be presented. 
 
-### Android Studio
-##### First Run
-* In the toolbar, select Run the followed by Edit Configurations.
-* Click on the + in the top-right corner of the popup screen to add a new configuration.
-* A dropdown will be made available then click on Flutter.
-* Give the configuration a name then input the path to the file main.dart within the cloned repository.
-* Click OK
-* Launch the desired devices, either by connecting to a real device or a virtual device of your choice through the AVD manager.
-* Once Android Studio has detected the device you have selected, click on the run icon present in the toolbar.
-* The application in the device once it has finished building. 
 
 # Attribute
 > All files included inside the lib folder are written in-house.
