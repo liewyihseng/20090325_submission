@@ -5,7 +5,7 @@
 #### Cloning of this Repository on Github
 * Using the Command Line Tool in your desired IDE, run:
 
-		git clone https://github.com/liewyihseng177/20090325_submission.git
+		git clone https://github.com/liewyihseng/20090325_submission.git
 * This will allow the latest version of source code to be cloned into the workspace.
 * If you are facing any issue on cloning this file, do drop me an email at liewyihseng177@gmail.com as this repository is currently still in private mode.
 
