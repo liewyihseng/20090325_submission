@@ -23,7 +23,7 @@ The report for this study can be found [here](https://github.com/liewyihseng/200
 # Prerequisites
 ### Installation of  Git
 * Go to this link:
-[https://git-scm.com/download/win](https://git-scm.com/download/win)
+[https://git-scm.com/download/win](https://git-scm.com/download/win).
 * Select the version based on your machine's information.
 * Extract the files followed by running of the installer.
 
