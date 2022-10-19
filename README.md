@@ -1,5 +1,5 @@
 # Prediction of Metal Coating Properties for Greener Air Travel
-The report for this stidy can be accessible [here](https://github.com/liewyihseng/20090325_submission/blob/main/20090325_dissertation.pdf).
+The report for this study can be found [here](https://github.com/liewyihseng/20090325_submission/blob/main/20090325_dissertation.pdf).
 
 ## User Manual
 #### Cloning of this Repository on Github
